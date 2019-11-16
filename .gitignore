@@ -1,4 +1,4 @@
-# Jupyter Notebook
+ç# Jupyter Notebook
 .ipynb_checkpoints
 
 # Byte-compiled / optimized / DLL files
@@ -8,3 +8,10 @@ __pycache__/
 
 # IDE files
 .idea/
+
+# ml runs
+*/mlruns/
+
+# results csv
+AprendizajeProfundo/petfinder_dataset/results.csv
+
